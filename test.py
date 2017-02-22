@@ -1,6 +1,6 @@
 import urllib
 from bs4 import BeautifulSoup
-import requests
+#import requests
 import re
 
 url = 'http://bip.parzeczew.nv.pl/Article/get/id,15320.html'
